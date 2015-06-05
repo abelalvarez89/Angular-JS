@@ -1,7 +1,7 @@
 var myApp = angular.module('myApp', []);
 
 myApp.controller('MyController', function MyController($scope){
-	$scope.author = [
+	$scope.artists = [
   {
     "name":"Barot Bellingham",
     "shortname":"Barot_Bellingham",
